@@ -56,28 +56,17 @@ body{
 
   /* designing of Text and image of bitcoin just below the navbar starts here*/
 
-  #button1{
-    background-color: #35c216;
-    margin: 578px 0px 0px -374px;
-    width: 15%;
-    height: 41px;
-    border-top-right-radius: 18px;
-    border-bottom-left-radius: 18px;
-    font-size: 20px;
-    float: left;
-  }
-
   #button1 a{
     color: #000000;
     text-decoration: none;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 25px;
+    font-size: 1.3em;
   }
 
   
   #just_below_navbar{
     font-family: 'Roboto Condensed', sans-serif;
-    height: 680px;
+    height: 44em;
     width: 100%;
     position: relative;
     /* border: 1px solid red; */
@@ -85,26 +74,37 @@ body{
   }
 
   #just_below_navbar h3{
-    font-size: 29px;
-    margin: 55px 0px 0px 162px;
+    font-size: 2em;
+    margin: 2em 0em 0em 8em;
     color: #feffff;
-    width: 420px;
+    width: 15em;
     float: left;
   }
 
   #just_below_navbar h1{
-    font-size: 64px;
-    margin: 195px 0px 0px -445px;
+    font-size: 4em;
+    margin: 3.2em 0em 0em -8em;
     color: #5bd1ba;
-    width: 530px;
+    width: 9em;
     float: left;
   }
 
   #just_below_navbar p{
-    font-size: 30px;
-    margin: 462px 0px 0px -448px;
+    font-size: 2em;
+    margin: 15em 0em 0em -16em;
     color: #f1fffa;
-    width: 420px;
+    width: 13em;
+    float: left;
+  }
+
+  #button1{
+    background-color: #35c216;
+    margin: 28em 0em 0em -21em;
+    width: 15%;
+    height: 2em;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    font-size: 1.3em;
     float: left;
   }
 
@@ -112,10 +112,10 @@ body{
   #just_below_navbar img{
     position: absolute;
     background-repeat: no-repeat;
-    width: 32%;
-    height: 52%;
+    width: 28%;
+    height: 54%;
     float: right;
-    margin: 100px 0px 0px 115px;
+    margin: 10em 0em 0em 8em;
     border-radius: 34px;
     background-size: cover;
     box-shadow: 0 0 32px 3px rgb(255, 255, 255);
