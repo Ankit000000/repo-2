@@ -239,7 +239,7 @@ body{
   }
 
   #r2{
-    width: 13em;
+    width: 16em;
     height: 1.2em;
     font-size: 2em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -262,7 +262,7 @@ body{
     font-size: 4em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
-    margin: -1.1em 0em 0em 4em;
+    margin: -1.1em 0em 0em 4.5em;
   }
 
   #r5{
@@ -270,17 +270,17 @@ body{
     height: 1em;
     font-size: 3.7em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: -1em 0em 0em 5.6em;
+    margin: -1em 0em 0em 7.2em;
     color: #00ff2b;
   }
 
   #r6{
-    width: 10em;
+    width: 3em;
     height: 1.5em;
     font-size: 3em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #51ff76;
-    margin: -1.1em 0em 0em 8em;
+    margin: -1.1em 0em 0em 10em;
   }
 
    /*designing for the footer starts here*/

@@ -14,7 +14,8 @@ fetch(url, {
       response.json().then(function (data2) {
         console.log('This is the price of 1 BTC in Rupees');
         console.log(JSON.stringify(data2).slice(148, 155));
-        document.getElementById('r6').innerHTML= JSON.stringify(data2).slice(148, 155) / JSON.stringify(data).slice(148, 153);  
+        let num = JSON.stringify(data2).slice(148, 155) / JSON.stringify(data).slice(148, 153);
+        document.getElementById('r6').innerHTML= num.toFixed(3);  
       });
     }).catch(function () {
       console.log('Booo');
