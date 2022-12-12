@@ -360,15 +360,15 @@ body{
   #below_footer p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
-    font-size: 1em;
+    font-size: 1.1em;
     padding: 0em 0em 0em 20em;
   }
 
   #below_footer img{
-    padding: 0px 0px 0px 0px;
-    width: 158px;
-    height: 40px;
-    margin: 20px -50px 0px 118px;
+    padding: 0em 0em 0em 0em;
+    width: 13em;
+    height: 3.5em;
+    margin: 1.3em 0em 0em 9em;
   }
 
   .white{
